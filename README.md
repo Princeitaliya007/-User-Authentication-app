@@ -1,4 +1,4 @@
-# mediabooster_project3
+# user-authentication-app
 
 A new Flutter project.
 
